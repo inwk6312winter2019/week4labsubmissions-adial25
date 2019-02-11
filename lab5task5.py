@@ -4,8 +4,8 @@ class Point(object):
         self.y = y
 
     def print_point(self):
-        print "x =", self.x, ",",
-        print "y =", self.y
+        print ("x =", self.x, ",",)
+        print ("y =", self.y)
 
 point = Point()
 point.print_point()
@@ -26,13 +26,13 @@ class Point(object):
         return '(%d, %d)' % (self.x, self.y)
 
 point = Point()
-print point
+print (point)
 
 point = Point(10)
-print point 
+print (point) 
 
 point = Point(10, 15)
-print point
+print (point)
 #third part
 class Point(object):
     def __init__ (self, x = 0, y = 0):
@@ -51,4 +51,4 @@ class Point(object):
 point1 = Point(1, 3)
 point2 = Point(4, 5)
  
-print point1 + point2 
+print (point1 + point2)
