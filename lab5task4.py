@@ -17,4 +17,4 @@ def is_after(t1, t2):
     t2_total_seconds = (t2.hour * 3600) + (t2.minute * 60) + t2.second
     return t1_total_seconds > t2_total_seconds
      
-print is_after(t1, t2) 
+print is_after(t1, t2)  

@@ -24,4 +24,4 @@ point1 = Point(1, 6)
 point2 = (5, 2)
 point3 = point1 + point2
 point4 = point2 + point1
-print point3, point4 
+print point3, point4  

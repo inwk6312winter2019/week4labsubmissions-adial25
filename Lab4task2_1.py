@@ -10,3 +10,4 @@ def stringoperation():
         my = my.lower()
         print(my)
 stringoperation() 
+ 

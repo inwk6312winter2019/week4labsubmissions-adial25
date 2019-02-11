@@ -8,4 +8,4 @@ def walk(dirname):
             walk(path)
 
 walk(os.getcwd())
- 
+  

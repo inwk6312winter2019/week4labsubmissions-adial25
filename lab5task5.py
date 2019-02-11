@@ -29,7 +29,7 @@ point = Point()
 print point
 
 point = Point(10)
-print point
+print point 
 
 point = Point(10, 15)
 print point

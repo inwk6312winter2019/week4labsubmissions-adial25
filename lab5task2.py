@@ -23,7 +23,7 @@ def print_point(p):
 
 
 center = find_center(box)
-print_point(center)
+print_point(center) 
 
 
 def move_rectangle(rect, dwidth, dheight):
