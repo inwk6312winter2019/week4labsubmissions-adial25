@@ -197,4 +197,4 @@ def subnet_calc():
         sys.exit()
 
 #Calling the function
-subnet_calc()
+subnet_calc() 

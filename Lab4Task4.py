@@ -31,5 +31,5 @@ def stringoperation(lisofwords):
 
 x = input("Enter file name of list of words:")
 stringoperation(x)
-
+ 
 

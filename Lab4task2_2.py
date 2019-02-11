@@ -22,3 +22,4 @@ def stringoperation():
     print("Total no of words:",len(listofwords))
 
 stringoperation()
+ 

@@ -38,4 +38,4 @@ def move_rectangle_new(rect, dwidth, dheight):
     move_rectangle(new,dwidth,dheight)
     return new
 
-move_rectangle_new(box,50,100)
+move_rectangle_new(box,50,100) 

@@ -51,4 +51,4 @@ class Point(object):
 point1 = Point(1, 3)
 point2 = Point(4, 5)
  
-print point1 + point2
+print point1 + point2 

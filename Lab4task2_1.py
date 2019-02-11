@@ -9,4 +9,4 @@ def stringoperation():
            my = my.replace(c,"")
         my = my.lower()
         print(my)
-stringoperation()
+stringoperation() 
