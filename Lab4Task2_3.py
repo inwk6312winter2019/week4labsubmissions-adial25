@@ -23,6 +23,4 @@ def stringoperation():
             print(key)
 
 stringoperation()
-
-
   
